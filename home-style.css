@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: #570c0c;
 }
 
 a {
@@ -7,15 +8,17 @@ a {
 }
 
 .navigation-bar {
-    background-color: lightblue;
+    background-color: #191819;
     display: flex;
-    padding: 5px;
-    gap: 20px;
+    padding: 10px;
+    gap: 10px;
     border-radius: 5px;
 }
 
 .navigation-link {
-    background-color: lightcoral;
+    background-color: #570c0c;
+    color: white;
+    font-weight: 700;
     padding: 15px;
     border-radius: 5px;
 }
