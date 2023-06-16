@@ -33,7 +33,7 @@ body {
 
 .card-section {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 10px;
     margin-top: 20px;
