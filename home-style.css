@@ -1,3 +1,25 @@
 body {
     text-align: center;
 }
+
+a {
+    text-decoration: none;
+}
+
+.navigation-bar {
+    background-color: lightblue;
+    display: flex;
+    padding: 5px;
+    gap: 20px;
+    border-radius: 5px;
+}
+
+.navigation-link {
+    background-color: lightcoral;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.home-link {
+    margin-right: auto;
+}
