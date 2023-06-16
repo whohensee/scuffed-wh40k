@@ -28,6 +28,7 @@ a {
 
 body {
     background-color: #570c0c;
+    min-width: 1140px;
 }
 
 .card-section {
