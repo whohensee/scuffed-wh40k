@@ -1,0 +1,40 @@
+/* ----- Navigation Bar ----- */
+
+a {
+    text-decoration: none;
+}
+
+.navigation-bar {
+    background-color: lightblue;
+    display: flex;
+    padding: 5px;
+    gap: 20px;
+    border-radius: 5px;
+}
+
+.navigation-link {
+    background-color: lightcoral;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.home-link {
+    margin-right: auto;
+}
+
+/* ----- Card CSS ----- */
+
+.card-section {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+img {
+    width: 900px;
+    height: 595px;
+    flex: 0 0 auto;
+    border: black 10px solid;
+}
+
