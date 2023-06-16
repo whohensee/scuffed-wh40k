@@ -45,3 +45,17 @@ img {
     border: black 10px solid;
 }
 
+
+/* ----- Cheatsheet CSS ----- */
+
+.cheatsheet-section {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.cheatsheet-section img {
+    width: 1140px;
+    height: auto;
+}
+
