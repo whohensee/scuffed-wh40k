@@ -1,0 +1,16 @@
+.navigation-bar {
+    background-color: #04532a;
+}
+
+.navigation-link {
+    background-color: #16221d;
+    color: white;
+}
+
+body {
+    background-color: #16221d;
+}
+
+img {
+    border: #04532a 10px solid;
+}
